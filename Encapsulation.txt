@@ -1,0 +1,32 @@
+
+
+		int v_accBalance = 2000; //this is a variable and this is very scencetive
+
+		we do not direct access to this variable to any1
+
+		we create a propery instead with setter and getter
+
+		public int AccountBalance
+		{
+			get 
+			{
+				return v_accBalance;
+			}
+			set
+			{
+				v_accBalance = value;
+			}
+		}
+
+		obj.AccountBalance = 10000;
+
+
+		public int Widraw(int amount)
+		{
+			AccountBalance = AccountBalance + amount;
+			return AccountBalance;
+		}
+
+
+
+

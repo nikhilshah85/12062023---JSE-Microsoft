@@ -1,0 +1,25 @@
+
+
+
+Me Trainer
+
+1. start command prompt, navigate to folder on desktop / any workspace
+
+2. git clone git clone https://github.com/nikhilshah85/12062023---JSE-Microsoft.git
+
+3. Git add . (add all the files to be uploaded to git)
+
+4. Git commit -m "Day 1"
+
+5. Git push
+
+I will perform step 3 to 5 every day
+
+-----------------------------------------------------------------------------------------------
+You
+
+1. start command prompt, navigate to folder on desktop / any workspace
+2.  git clone git https://github.com/nikhilshah85/12062023---JSE-Microsoft.git
+3. git pull (everyday)
+
+
