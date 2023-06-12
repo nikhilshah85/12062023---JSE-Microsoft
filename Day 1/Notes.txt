@@ -1,0 +1,123 @@
+Name:
+Experience:
+Technical Background:
+What I know:
+My expectations:
+----------------------------------------------------------
+	Softwares :
+	1. Visual Studio 2022
+	2. SQL Server and SQL Server management studio 
+	3. Git for repository 
+
+	if you do not have them installed on your machine, use Cognizant cloud Lab
+
+-----------------------------------------------------------
+				OOPS - think - plan - develop in a common way
+
+
+				Inventor of 
+				C: DENNIS RITCHIE
+			C++(OOPS): Bjarne Stroustrup
+	        C# and TypeScript: Andres Hejlsberg
+
+
+
+			OOPS - Object Oriented Programming System/Structure
+
+			Object - Everything is an object
+
+				A developer designs this object in a blueprint(Class file) and creates 
+					objects of this design 
+
+			There are rules and techniques to create the blueprint (write code in a class file)
+
+				This rules are also called as Golden Pillars of software design 
+
+			(Note: A software developer studies an object and put it into a design)
+			1. Every object has Properties, Methods/Function, enums, classes, ...Exceptions,etc
+				Properties - What describes an object
+
+				Car : 
+				 Properties :Color, Types, Model, Cost, Milage, sitting capacity etc...
+				 Methods : Run fast, stop , turn, park, etc...
+				 
+				Trainer : Name, TechnicalSkills, Language, experience, location, 
+				Methods : Speak, Walk, talk, answer a question, conduct a test etc...
+
+				Bank Account : accNo, accName, accBalance, accType, accStatus etc...
+				Methods :Widraw, Deposit, transfer, paybill, downloadstatment, changepin
+
+
+
+		To design this object in a very proper way, we have 4 golden pillars, which we should use
+		a. Abstraction : Consider only those properties, methods, enums, parameters, consutructors, 			variables, references etc... which are relevant and needed for a software, remove 			those/ignore those which are not in the scope of software
+
+			Bank Account:accNo, accName, accBalance, accType, accStatus
+
+
+		b. Encapsulation : Create software which are very easy to use, but very very difficult to 				   understand how it works
+
+				we use properties and method for the same - hide the functionality, hide 				variables, hide logic, hide business rules
+
+
+		c. Inheritance : Reuse 
+
+		d. Polymorphism : Same Signature - differnt bevaviour in a different objects/instances
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
