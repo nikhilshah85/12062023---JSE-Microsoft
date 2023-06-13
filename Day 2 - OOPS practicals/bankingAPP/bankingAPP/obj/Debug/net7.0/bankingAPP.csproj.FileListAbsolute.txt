@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\12062023 - JSE Microsoft\12062023---JSE-Microsoft\Day 2 - OOPS practicals\bankingAPP\bankingAPP\bin\Debug\net7.0\bankingAPP.exe
+C:\Users\Administrator\Desktop\12062023 - JSE Microsoft\12062023---JSE-Microsoft\Day 2 - OOPS practicals\bankingAPP\bankingAPP\bin\Debug\net7.0\bankingAPP.deps.json
+C:\Users\Administrator\Desktop\12062023 - JSE Microsoft\12062023---JSE-Microsoft\Day 2 - OOPS practicals\bankingAPP\bankingAPP\bin\Debug\net7.0\bankingAPP.runtimeconfig.json
+C:\Users\Administrator\Desktop\12062023 - JSE Microsoft\12062023---JSE-Microsoft\Day 2 - OOPS practicals\bankingAPP\bankingAPP\bin\Debug\net7.0\bankingAPP.dll
+C:\Users\Administrator\Desktop\12062023 - JSE Microsoft\12062023---JSE-Microsoft\Day 2 - OOPS practicals\bankingAPP\bankingAPP\bin\Debug\net7.0\bankingAPP.pdb
+C:\Users\Administrator\Desktop\12062023 - JSE Microsoft\12062023---JSE-Microsoft\Day 2 - OOPS practicals\bankingAPP\bankingAPP\obj\Debug\net7.0\bankingAPP.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\12062023 - JSE Microsoft\12062023---JSE-Microsoft\Day 2 - OOPS practicals\bankingAPP\bankingAPP\obj\Debug\net7.0\bankingAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\12062023 - JSE Microsoft\12062023---JSE-Microsoft\Day 2 - OOPS practicals\bankingAPP\bankingAPP\obj\Debug\net7.0\bankingAPP.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\12062023 - JSE Microsoft\12062023---JSE-Microsoft\Day 2 - OOPS practicals\bankingAPP\bankingAPP\obj\Debug\net7.0\bankingAPP.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\12062023 - JSE Microsoft\12062023---JSE-Microsoft\Day 2 - OOPS practicals\bankingAPP\bankingAPP\obj\Debug\net7.0\bankingAPP.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\12062023 - JSE Microsoft\12062023---JSE-Microsoft\Day 2 - OOPS practicals\bankingAPP\bankingAPP\obj\Debug\net7.0\bankingAPP.dll
+C:\Users\Administrator\Desktop\12062023 - JSE Microsoft\12062023---JSE-Microsoft\Day 2 - OOPS practicals\bankingAPP\bankingAPP\obj\Debug\net7.0\refint\bankingAPP.dll
+C:\Users\Administrator\Desktop\12062023 - JSE Microsoft\12062023---JSE-Microsoft\Day 2 - OOPS practicals\bankingAPP\bankingAPP\obj\Debug\net7.0\bankingAPP.pdb
+C:\Users\Administrator\Desktop\12062023 - JSE Microsoft\12062023---JSE-Microsoft\Day 2 - OOPS practicals\bankingAPP\bankingAPP\obj\Debug\net7.0\bankingAPP.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\12062023 - JSE Microsoft\12062023---JSE-Microsoft\Day 2 - OOPS practicals\bankingAPP\bankingAPP\obj\Debug\net7.0\ref\bankingAPP.dll

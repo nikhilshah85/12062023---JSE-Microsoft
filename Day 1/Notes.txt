@@ -50,7 +50,8 @@ My expectations:
 
 
 		To design this object in a very proper way, we have 4 golden pillars, which we should use
-		a. Abstraction : Consider only those properties, methods, enums, parameters, consutructors, 			variables, references etc... which are relevant and needed for a software, remove 			those/ignore those which are not in the scope of software
+		
+		a. Abstraction : Consider only those properties, methods, enums, parameters, 						consutructors,	variables, references etc... which are relevant 						and needed for a software, remove 			those/ignore those 					which are not in the scope of software
 
 			Bank Account:accNo, accName, accBalance, accType, accStatus
 
