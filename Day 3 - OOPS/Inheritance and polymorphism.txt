@@ -1,0 +1,15 @@
+To fix this error - 
+in option 1 
+	ask 3 questions again
+		1. Savings
+		2. Current
+		3. PF
+
+
+Abstraction :  abstract keyword, design a class
+Encapsulation :Properties, methods
+Inheritance : (:),  base 
+polymorphism : virtual in parent and override in child - widraw method should have different rules for all 3 classes
+		Savings : max widraw 10000
+		Current: max widraw 50000 even if balance not available
+		PF: max widraw 30% of available balance
