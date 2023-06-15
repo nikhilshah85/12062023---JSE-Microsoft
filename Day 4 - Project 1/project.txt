@@ -1,0 +1,35 @@
+
+
+				Project 1 : Day 4 : OOPS implementations
+
+		1. Create a console applicaiton for EmployeeManagement
+		2. Applicaition will have a welcome screen which will show a welcome message on top 
+		3. Display 2 choice to user (After Press enter to continue)
+			a. Employee
+			b. HR
+			c. Exit
+		4. Employee Options
+			Ask employee No and then show below menu
+			a. View My Details
+			b. Apply for leave
+			c. Exit
+	
+		5. HR Options (ask for username and password - username HRAdmin, password: OrgHR@1234		
+			a. Add New Employee
+			b. Approve Leaves
+			c. Apprise Employee (max 10% to manager, 18% to developer, 12% to Accounts)
+			c. Edit Edit Employee
+			d. View Employee Details by providing emp No
+		
+		Types of employees
+			Employee (base class, mark abstract)
+				Manager (cannot get more than 10 days of leave)
+				Developer (cannot get more than 12 days of leave)
+				Accounts (cannot get more than 8 days of leave)
+
+---------------------After you complete this, test it, zip it and send zip file by email, save file in your onedrive and share link on email nikhil.shah@cognizant.com
+
+
+
+
+	
