@@ -1,0 +1,17 @@
+
+
+
+1. OOPS
+2. Classes
+	variables
+	properties
+	methods
+	constructor
+	static
+	abstract (Abstraction)
+	: (inheritance)
+	virtual and override (Polymorphism)
+		
+3. Objects
+
+4. First .Net API - File IO - read and write to file

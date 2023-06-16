@@ -1,0 +1,10 @@
+We want to increment a number - store the number in file
+
+everytime u run the program it will open the file
+
+read that number
+increase the number
+
+print on the screen 
+
+save the number back to file
