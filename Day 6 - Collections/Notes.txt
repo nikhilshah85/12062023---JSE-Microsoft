@@ -1,0 +1,108 @@
+			Data Structure / Collections
+
+
+When you want to store multiple values in a single variable we use collections
+
+1. Array 
+2. ArrayList
+3. List
+4. Hashtable
+5. Dictionary 
+
+---------------------
+Array - Drawbacks
+
+	need to know and have a fix size for storage
+	int[] numbers = new int[20];
+
+	this will take place for 20 int - 20*4 byyes = 80 bytes
+
+  --if user do not wish to enter 20 numbers, it is not a problem but space is going waste in memory
+  --if user wish to add more numbers (30) - we do not have space for the same :(
+  --user always has to enter number  in int format - cannot enter - Ten 	
+
+
+Solution : Array list
+
+------------------------------------------------
+
+Array list : Drawbacks
+
+	All the values are stored as an Object - which needs converstion while takeing the value
+		out from the variable
+
+	it uses a mechanism - Boxing and unboxing
+		boxing - convert from value type to reference type
+		unboxing - converty from ref type to value
+
+	which is a hardwork and stress for the processor
+
+	not good for performance of an application 
+
+Solution : List
+
+-------------------------------------------------------
+List : this does not need a size, but data type has to be followed
+
+	Drawback : it can have duplicate values, everyvalue is not unique
+
+
+-----------------------------------
+HashTable : this is for key and a value pair
+		Key needs to be unique
+		Value can be anything
+
+	Drawback : same like Arraylist - needs boxing and unboxing
+
+Solution: Dictionary
+-----------------------------
+Dictionary : this is for key and a value pair
+		Key needs to be unique
+		Value can be anything
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

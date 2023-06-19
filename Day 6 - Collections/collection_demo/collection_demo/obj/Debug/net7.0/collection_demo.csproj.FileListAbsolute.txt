@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\12062023 - JSE Microsoft\12062023---JSE-Microsoft\Day 6 - Collections\collection_demo\collection_demo\bin\Debug\net7.0\collection_demo.exe
+C:\Users\Administrator\Desktop\12062023 - JSE Microsoft\12062023---JSE-Microsoft\Day 6 - Collections\collection_demo\collection_demo\bin\Debug\net7.0\collection_demo.deps.json
+C:\Users\Administrator\Desktop\12062023 - JSE Microsoft\12062023---JSE-Microsoft\Day 6 - Collections\collection_demo\collection_demo\bin\Debug\net7.0\collection_demo.runtimeconfig.json
+C:\Users\Administrator\Desktop\12062023 - JSE Microsoft\12062023---JSE-Microsoft\Day 6 - Collections\collection_demo\collection_demo\bin\Debug\net7.0\collection_demo.dll
+C:\Users\Administrator\Desktop\12062023 - JSE Microsoft\12062023---JSE-Microsoft\Day 6 - Collections\collection_demo\collection_demo\bin\Debug\net7.0\collection_demo.pdb
+C:\Users\Administrator\Desktop\12062023 - JSE Microsoft\12062023---JSE-Microsoft\Day 6 - Collections\collection_demo\collection_demo\obj\Debug\net7.0\collection_demo.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\12062023 - JSE Microsoft\12062023---JSE-Microsoft\Day 6 - Collections\collection_demo\collection_demo\obj\Debug\net7.0\collection_demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\12062023 - JSE Microsoft\12062023---JSE-Microsoft\Day 6 - Collections\collection_demo\collection_demo\obj\Debug\net7.0\collection_demo.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\12062023 - JSE Microsoft\12062023---JSE-Microsoft\Day 6 - Collections\collection_demo\collection_demo\obj\Debug\net7.0\collection_demo.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\12062023 - JSE Microsoft\12062023---JSE-Microsoft\Day 6 - Collections\collection_demo\collection_demo\obj\Debug\net7.0\collection_demo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\12062023 - JSE Microsoft\12062023---JSE-Microsoft\Day 6 - Collections\collection_demo\collection_demo\obj\Debug\net7.0\collection_demo.dll
+C:\Users\Administrator\Desktop\12062023 - JSE Microsoft\12062023---JSE-Microsoft\Day 6 - Collections\collection_demo\collection_demo\obj\Debug\net7.0\refint\collection_demo.dll
+C:\Users\Administrator\Desktop\12062023 - JSE Microsoft\12062023---JSE-Microsoft\Day 6 - Collections\collection_demo\collection_demo\obj\Debug\net7.0\collection_demo.pdb
+C:\Users\Administrator\Desktop\12062023 - JSE Microsoft\12062023---JSE-Microsoft\Day 6 - Collections\collection_demo\collection_demo\obj\Debug\net7.0\collection_demo.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\12062023 - JSE Microsoft\12062023---JSE-Microsoft\Day 6 - Collections\collection_demo\collection_demo\obj\Debug\net7.0\ref\collection_demo.dll
