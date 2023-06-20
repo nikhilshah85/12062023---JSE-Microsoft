@@ -1,0 +1,20 @@
+
+
+
+
+		Task : in the same application
+
+		for employee class, create a new list
+		
+	--------------------------------------------------------------------
+			~~~~~~~~~~~ Welcome to employee Management ~~~~~~~~~~~~~~
+
+		1. View Employee list (display complete list)
+		2. Add Employee (ask all the inputs from user and add it to list)
+		3. Edit Employee (ask for new firstname and change it for that emplyoee number)
+		4. View Summary
+		5. Exit
+
+
+
+		Tomorrow : Databases : SQL Server 

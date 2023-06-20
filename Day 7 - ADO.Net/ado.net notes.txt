@@ -1,0 +1,27 @@
+					ADO.net - Active X Database Operations
+
+
+		Sytem.Data;
+		System.Data.SqlClient;
+
+
+	1. 
+	SqlConnection con = new SqlConnect("server=;database=;userid=;password=); //SQL Server Authentication
+	SqlConnection con = new SqlConnect("server=;database=;integrated security=true); //Windows Authentication
+
+
+	2. 
+	SqlCommand cmd = new SqlCommand("select query",con);
+	SqlCommand cmd = new SqlCommand("insert query",con);
+	SqlCommand cmd = new SqlCommand("udpate query",con);
+	SqlCommand cmd = new SqlCommand("delete query",con);
+	SqlCommand cmd = new SqlCommand("stored procedure name",con);
+	
+	3. 
+	cmd.ExecuteNonQuery()  // use this when your command/operation is insert, update or delete
+	cmd.ExecuteScalar()   //  use this when your command is returning a single value - eg. Sum(), min(), max(), get Designation based on ID
+	cmd.ExecuteReader()  // use this when your command is select query
+
+	
+	4. 
+	SqlDataReader rd;  // a forward only cursor to read data from select query

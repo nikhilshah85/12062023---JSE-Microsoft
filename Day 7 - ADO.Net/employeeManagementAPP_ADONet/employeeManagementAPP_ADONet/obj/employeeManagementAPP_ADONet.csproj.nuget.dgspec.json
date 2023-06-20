@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Administrator\\Desktop\\12062023 - JSE Microsoft\\12062023---JSE-Microsoft\\Day 7 - ADO.Net\\employeeManagementAPP_ADONet\\employeeManagementAPP_ADONet\\employeeManagementAPP_ADONet.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Administrator\\Desktop\\12062023 - JSE Microsoft\\12062023---JSE-Microsoft\\Day 7 - ADO.Net\\employeeManagementAPP_ADONet\\employeeManagementAPP_ADONet\\employeeManagementAPP_ADONet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\12062023 - JSE Microsoft\\12062023---JSE-Microsoft\\Day 7 - ADO.Net\\employeeManagementAPP_ADONet\\employeeManagementAPP_ADONet\\employeeManagementAPP_ADONet.csproj",
+        "projectName": "employeeManagementAPP_ADONet",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\12062023 - JSE Microsoft\\12062023---JSE-Microsoft\\Day 7 - ADO.Net\\employeeManagementAPP_ADONet\\employeeManagementAPP_ADONet\\employeeManagementAPP_ADONet.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\12062023 - JSE Microsoft\\12062023---JSE-Microsoft\\Day 7 - ADO.Net\\employeeManagementAPP_ADONet\\employeeManagementAPP_ADONet\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

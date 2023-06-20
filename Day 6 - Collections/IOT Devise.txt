@@ -1,0 +1,38 @@
+Azure Functions App :
+	Scenerios
+		1. when user visits an URL - u want to collect all the info and dump it into a sql server
+			info - browsername, IP address, date and time, location, etc.....
+		2. On a Shopping portal - when user is searching for a product - you want to collect
+			username(if user is logged in) - else collect info about user (info as in point 1)
+			--do it for 24 hours - end of the day run an analytics and send info to sellers
+			--plan an offer to boost sale, email discount copounts, mainupate rate of the product 
+			--Share this detail to advitiser - and they will send pop up on email, sms etc...
+		3. Banking System - on an Banking Portal/ATM/Swipe Machines collect activities been performed 
+				by current users, and quickly block account, inform team, agency, regarding 
+				fraud detection 
+		4. Docter and patient - devise for sugar level, health, will inform doc and family members
+
+			This are IOT devises 
+
+		Can you give me some such scenrios 
+
+-------------------------------------------------------------------------------------------------
+	Part of event driven / serverless architecture
+		Next services : IOT Hub (collection of all the IOT devises, this is where you register your 					devise)
+				Stream Service - live stream service which will keep a track on IOT devise and
+				do some operation
+				eg: email, save a record to database, save it to file in storage
+					U-SQL
+				
+
+	To learn and test this - microsoft has hosted an dummy IOT devise / simulator in every data center
+			we will use the same to test the service
+
+			this devise captures the live temperature 
+
+
+
+
+
+
+
