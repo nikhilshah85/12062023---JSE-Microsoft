@@ -19,7 +19,7 @@ as
 begin
 	declare @newEmpNo int = 0;
 	set @newEmpNo = (select max(empno) + 1 from  employeeDetails)
-	insert into employeeDetails values(@newEmpNo,@newEmpNo, @empDesignation, @empSalary, @empIsPermenant)
+	insert into employeeDetails values(@newEmpNo,@empName, @empDesignation, @empSalary, @empIsPermenant)
 end
 
 --Delete employee
