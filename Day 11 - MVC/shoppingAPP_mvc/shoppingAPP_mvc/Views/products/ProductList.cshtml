@@ -1,0 +1,20 @@
+﻿
+
+
+
+<h1> Hot Selling Products </h1>
+
+<table class="table table-bordered">
+    @foreach (var item in ViewBag.pList)
+    {
+        <tr>
+            <td> @item.pId </td>
+            <td> @item.pName </td>
+            <td> @item.pCategory </td>
+            <td> @item.pPrice </td>
+            <td> @item.pIsInStock </td>
+            <td> <input type="number" class="form-control" placeholder="enter qty" /> </td>
+            <td> <button class="btn btn-primary">Add</button> </td>
+        </tr>
+    }
+</table>

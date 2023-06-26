@@ -1,0 +1,30 @@
+
+
+
+
+
+
+
+
+
+
+
+					M V C 
+		
+		Model (.cs file)  -  Data part of application
+			data structures, CRUD, selct, insert, update, detlete, sorting, filtering data, calculation, validation, formatting of data
+				all happen in this file
+
+				ADO.Net
+				Entity Framework 
+				Make WebAPI calls (server side - C#)
+
+		View (.cshtml file) - this is UI part of appliction 
+			html, css, images, video files, make api calls(client side - Javascript - JQuery)
+			Razor Syntax is used (short hand html,css and JS)
+
+		Controller - listen to request from client
+				collect data from Model pass it to view
+				collect data from View pass it to Model
+	
+				security, caching, authentication, authorization etc..

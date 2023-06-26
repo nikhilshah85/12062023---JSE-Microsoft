@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\shoppingAPP_mvc.props" />
+</Project>
