@@ -1,0 +1,12 @@
+1. Complete the app from today - practice it for 1 more time
+2. Add a new Model File - Customers.cs 
+		add some properties 
+		add a list of customers
+		
+		add a new controller - CustomerController
+
+		call customers method in controller file 
+		add a view customerList
+		display the data on page
+		update the layout page
+	

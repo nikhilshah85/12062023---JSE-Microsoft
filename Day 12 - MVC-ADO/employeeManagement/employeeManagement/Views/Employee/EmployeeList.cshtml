@@ -1,0 +1,16 @@
+﻿
+
+
+<table class="table table-bordered">
+    @foreach (var item in ViewBag.eList)
+    {
+        <tr>
+            <td> @item.empNo </td>
+            <td> @item.empName </td>
+            <td> @item.empDesigantion </td>
+            <td> @item.empSalary </td>
+            <td> @item.empIsPermenant </td>
+
+        </tr>
+    }
+</table>

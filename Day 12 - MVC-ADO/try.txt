@@ -1,0 +1,14 @@
+Try : 
+
+
+	1. create a new database - shoppingDB
+	2. Add a table productList (pId,pName, pCategory,pPrice, pIsInStock)
+	3. insert some records in the table
+
+	4. in the same applicaiton, add a new Model file products.cs, add propertoes and we want a method which will get all the products and store in
+		pList - a list variables
+
+	5. add a controller, call the method from Model and return the data in a viewbag
+
+	6. display data on a view, in a table
+	
