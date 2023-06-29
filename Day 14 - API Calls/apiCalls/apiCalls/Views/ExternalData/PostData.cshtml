@@ -1,0 +1,42 @@
+﻿
+
+<script>
+    function getPostData()
+    {
+        var dataUrl = "https://jsonplaceholder.typicode.com/posts";
+
+
+        //fetch api is used to make api/rest calls, it is a standard built into every browser
+        //fetch api,returns a promise, meaning, it is promising you that it will either get you the data or comeback with error
+        fetch(dataUrl).then(dataFormat => dataFormat.json())
+                      .then (data =>
+                       { 
+                         //   alert('Got the data, Success '); 
+                          //  console.log(data);
+
+                            //jquery to display the data
+
+                            for(var i=0;i<data.length;i++)
+                            {
+                                    $("table").append("<tr>" + 
+                                        "<td>" + data[i].id + "</td>" +
+                                        "<td>" + data[i].userId + "</td>" +
+                                        "<td>" + data[i].body + "</td>" +
+                                        "<td>" + data[i].title + "</td>" +
+                        "</tr>")
+                            }
+                            //we will write code to display the data, let us first test it
+                       })
+                        .catch( err =>
+                         {
+                            alert('Got Error');
+                         })                   
+
+    }
+</script>
+
+
+
+<button class="btn btn-danger" onclick="getPostData()">Show Post </button>
+
+<table class="table table-bordered"></table>

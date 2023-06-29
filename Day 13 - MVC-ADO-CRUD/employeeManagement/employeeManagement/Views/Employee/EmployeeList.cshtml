@@ -1,0 +1,18 @@
+﻿
+
+<h1> Employee list </h1>
+
+<table class="table table-stripped">
+    @foreach (var item in ViewBag.eList)
+    {
+        <tr>
+            <td> @item.empNo</td>
+            <td> @item.empName</td>
+            <td> @item.empDesignation</td>
+            <td> @item.empSalary</td>
+            <td> @item.empIsPermenant</td>
+            
+        </tr>
+    }
+
+</table>

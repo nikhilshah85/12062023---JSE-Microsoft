@@ -1,0 +1,22 @@
+﻿
+
+<form method="post">
+
+    <input type="number" placeholder="Employee Id" class="form-control" name="empNo" /">"
+    <button type="submit" class="btn btn-primary">Search</button>
+
+</form>
+
+
+@if(ViewBag.hasData)
+{
+
+<div style="background-color:lime;color:purple">
+    <h3> Employee Number : @ViewBag.empDetails.empNo   </h3>
+    <h3> Employee Name : @ViewBag.empDetails.empName  </h3>
+    <h3> Employee Designation :  @ViewBag.empDetails.empDesignation  </h3>
+    <h3> Employee Salary :  @ViewBag.empDetails.empSalary  </h3>
+    <h3> Employee Is Permenant : @ViewBag.empDetails.empIsPermenant   </h3>
+
+</div>
+}
